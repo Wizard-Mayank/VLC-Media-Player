@@ -9,6 +9,10 @@ This project replicates core features of VLC with a clean, minimal, and responsi
 
 ---
 
+Check it out [here](https://wizard-mayank.github.io/VLC-Media-Player/) 😊
+
+---
+
 ## 🚀 Features
 - 🎬 Play/Pause toggle  
 - ⏩ Interactive seek/progress bar  
